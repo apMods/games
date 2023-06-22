@@ -1,0 +1,5 @@
+player.placeatme 00039D1B
+player.placeatme 00039D54
+player.placeatme 00039D6D
+player.placeatme 000E105B
+player.placeatme 00052382
